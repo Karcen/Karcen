@@ -36,13 +36,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karcen&layout=compact&theme=radical)
 
 ## 🌐 在线资源
-- [个人博客](https://你的博客地址.com)
-- [LinkedIn](https://www.linkedin.com/in/你的LinkedIn)
-- [个人网站](https://你的个人网站.com)
+- [个人网站]([https://你的个人网站.com](https://karcen.github.io/zhengjiacheng.github.io/))
 
 ## 💌 联系方式
-[![Email](https://img.shields.io/badge/Email-联系我-blue?style=flat-square&logo=gmail)](mailto:你的邮箱@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-关注我-blue?style=flat-square&logo=twitter)](https://twitter.com/你的Twitter)
+[![Email](https://img.shields.io/badge/Email-联系我-blue?style=flat-square&logo=gmail)](mailto:karcenzheng@yeah.net)
 
 ---
 
