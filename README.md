@@ -1,29 +1,51 @@
-# 👋 Hello, I'm Karcen (Jiacheng Zheng)
+# 👋 你好，我是 Karcen
 
-## 🚀 About Me
-I'm a passionate developer with a keen interest in cutting-edge technologies and innovative solutions.
+## 🚀 关于我
+热爱技术，专注于机器学习和数据科学领域的创新型开发者。致力于探索和应用前沿技术，解决复杂的实际问题。
 
-## 📊 GitHub Stats
-![GitHub Stats](github-stats.svg)
-![Top Languages](top-langs.svg)
+## 🔬 研究方向
+- 深度学习
+- 数据分析
+- 人工智能算法
 
-## 🔥 Contribution Streak
-![Streak Stats](streak-stats.svg)
+## 🛠️ 技术栈
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=tensorflow)
+## 📈 项目亮点
 
-## 🌱 Current Interests
-- Machine Learning
-- Data Science
-- Artificial Intelligence
+### 🤖 机器学习项目
+1. **智能数据分析工具**
+   - 使用先进的机器学习算法
+   - 实现复杂数据集的模式识别
 
-## 💬 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+2. **深度学习模型**
+   - 开发创新的神经网络架构
+   - 解决实际应用中的复杂问题
+
+## 🏆 成就与荣誉
+- 多个开源项目贡献者
+- 技术博客作者
+- 机器学习竞赛参与者
+
+## 📊 GitHub 统计
+![GitHub统计](https://github-readme-stats.vercel.app/api?username=Karcen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karcen&layout=compact&theme=radical)
+
+## 🌐 在线资源
+- [个人博客](https://你的博客地址.com)
+- [LinkedIn](https://www.linkedin.com/in/你的LinkedIn)
+- [个人网站](https://你的个人网站.com)
+
+## 💌 联系方式
+[![Email](https://img.shields.io/badge/Email-联系我-blue?style=flat-square&logo=gmail)](mailto:你的邮箱@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-关注我-blue?style=flat-square&logo=twitter)](https://twitter.com/你的Twitter)
 
 ---
 
-⭐️ From [Karcen](https://github.com/Karcen)
+📢 **持续学习，永不停歇！**
+
+⭐ 来自 [Karcen](https://github.com/Karcen)
