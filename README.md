@@ -35,10 +35,10 @@
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=Karcen&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karcen&layout=compact&theme=radical)
 
-## 🌐 在线资源
-- [个人网站]((https://karcen.github.io/zhengjiacheng.github.io/))
-- [知乎]((https://www.zhihu.com/people/karcenzheng)))
-
+## 🌐 Website
+- [个人网站](https://karcen.github.io/zhengjiacheng.github.io/)  
+- [知乎](https://www.zhihu.com/people/karcenzheng)
+  
 ## 💌 联系方式
 [![Email](https://img.shields.io/badge/Email-联系我-blue?style=flat-square&logo=gmail)](mailto:karcenzheng@yeah.net)
 
