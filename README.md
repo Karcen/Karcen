@@ -37,7 +37,7 @@
 
 ## 🌐 在线资源
 - [个人网站]((https://karcen.github.io/zhengjiacheng.github.io/))
-- [知乎](([https://karcen.github.io/zhengjiacheng.github.io/](https://www.zhihu.com/people/karcenzheng)))
+- [知乎]((https://www.zhihu.com/people/karcenzheng)))
 
 ## 💌 联系方式
 [![Email](https://img.shields.io/badge/Email-联系我-blue?style=flat-square&logo=gmail)](mailto:karcenzheng@yeah.net)
