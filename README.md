@@ -1,57 +1,164 @@
-# 👋 Hello, I'm [Your Name]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub README Snake Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        #game-container {
+            text-align: center;
+        }
+        #game-board {
+            border: 2px solid #333;
+            background-color: #fff;
+        }
+        #score {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        #instructions {
+            margin-top: 10px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <div id="score">Score: 0</div>
+        <canvas id="game-board" width="400" height="400"></canvas>
+        <div id="instructions">
+            Use Arrow Keys to Control the Snake
+        </div>
+    </div>
 
-## 🚀 About Me
-Hi there! I'm a passionate developer with a love for innovative technologies and creative problem-solving. Welcome to my digital playground!
+    <script>
+        const canvas = document.getElementById('game-board');
+        const ctx = canvas.getContext('2d');
+        const scoreElement = document.getElementById('score');
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+        // Game settings
+        const gridSize = 20;
+        const tileCount = canvas.width / gridSize;
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
-</div>
+        // Snake initial state
+        let snake = [
+            {x: 10, y: 10},
+        ];
+        let food = getRandomFood();
+        let dx = 1;
+        let dy = 0;
+        let score = 0;
 
-## 🏆 Achievements
-- 🥇 Open Source Contributor
-- 🏅 Hackathon Winner
-- 📚 Continuous Learner
+        function getRandomFood() {
+            return {
+                x: Math.floor(Math.random() * tileCount),
+                y: Math.floor(Math.random() * tileCount)
+            };
+        }
 
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats"/>
-</div>
+        function drawGame() {
+            clearCanvas();
+            moveSnake();
+            drawSnake();
+            drawFood();
+            checkGameOver();
+        }
 
-## 🎮 Fun Coding Projects
+        function clearCanvas() {
+            ctx.fillStyle = 'white';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+        }
 
-### 1. Interactive Snake Game
-![Snake Game Demo](https://your-demo-link.gif)
-A classic Snake game built with Python and Pygame. Features:
-- Responsive controls
-- Score tracking
-- Dynamic difficulty
+        function drawSnake() {
+            ctx.fillStyle = 'green';
+            snake.forEach(segment => {
+                ctx.fillRect(
+                    segment.x * gridSize, 
+                    segment.y * gridSize, 
+                    gridSize - 2, 
+                    gridSize - 2
+                );
+            });
+        }
 
-### 2. Machine Learning Visualizer
-![ML Visualizer](https://your-project-screenshot.png)
-An interactive tool to visualize machine learning algorithms in action.
+        function drawFood() {
+            ctx.fillStyle = 'red';
+            ctx.fillRect(
+                food.x * gridSize, 
+                food.y * gridSize, 
+                gridSize - 2, 
+                gridSize - 2
+            );
+        }
 
-## 🌱 Currently Learning
-- Advanced Deep Learning Techniques
-- Cloud Native Architecture
-- Quantum Computing Basics
+        function moveSnake() {
+            const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+            snake.unshift(head);
 
-## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:youremail@example.com)
+            // Check if snake eats food
+            if (head.x === food.x && head.y === food.y) {
+                score++;
+                scoreElement.textContent = `Score: ${score}`;
+                food = getRandomFood();
+            } else {
+                snake.pop();
+            }
+        }
 
-## 🐍 Snake Game (Visitor Counter)
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+        function checkGameOver() {
+            const head = snake[0];
 
----
+            // Wall collision
+            if (head.x < 0 || head.x >= tileCount || 
+                head.y < 0 || head.y >= tileCount) {
+                resetGame();
+            }
 
-⭐️ From [Your Name](https://github.com/yourusername)
+            // Self collision
+            for (let i = 1; i < snake.length; i++) {
+                if (head.x === snake[i].x && head.y === snake[i].y) {
+                    resetGame();
+                }
+            }
+        }
+
+        function resetGame() {
+            snake = [{x: 10, y: 10}];
+            food = getRandomFood();
+            dx = 1;
+            dy = 0;
+            score = 0;
+            scoreElement.textContent = `Score: ${score}`;
+        }
+
+        // Controls
+        document.addEventListener('keydown', (e) => {
+            switch(e.key) {
+                case 'ArrowUp':    
+                    if (dy === 0) { dx = 0; dy = -1; }
+                    break;
+                case 'ArrowDown':  
+                    if (dy === 0) { dx = 0; dy = 1; }
+                    break;
+                case 'ArrowLeft':  
+                    if (dx === 0) { dx = -1; dy = 0; }
+                    break;
+                case 'ArrowRight': 
+                    if (dx === 0) { dx = 1; dy = 0; }
+                    break;
+            }
+        });
+
+        // Game loop
+        setInterval(drawGame, 100);
+    </script>
+</body>
+</html>
