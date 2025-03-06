@@ -7,6 +7,8 @@
 - 深度学习
 - 数据分析
 - 人工智能算法
+- 投入产出分析
+- 全球价值链
 
 ## 🛠️ 技术栈
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
