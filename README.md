@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-A passionate technologist and innovative developer specializing in machine learning and data science. I'm committed to exploring and applying cutting-edge technologies to solve complex real-world problems.
+A passionate technologist and innovative developer specializing in machine learning and data science. I'm committed to exploring and applying cutting-edge technologies to solve complex real-world problems. Now I am a research assistant in Institute of International Studies, Shandong University and The Hong Kong University of Science and Technology.
 
 ---
 
