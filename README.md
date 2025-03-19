@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Karcen
+### 👋 Hi, I'm Karcen Zheng
 
 ---
 
