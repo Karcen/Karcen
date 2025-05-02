@@ -40,13 +40,13 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 #### Publications
 [1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (contributed to data analysis, modeling and visualization).
 
-[2] Khan, J., Li, Y., & Zheng, J. (Under Review). Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach. *Review of Development Economics*.
+[2] Khan, J., Li, Y., & **Zheng, J.** (Under Review). Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach. *Review of Development Economics*.
 
-[3] Zheng, J., Khan, J., & Alam, Z. (Minor revision). Agglomeration economies and regional inequalities: Theory and evidence from provincial China. *Journal of Chinese Economic and Business Studies*.
+[3] **Zheng, J.**, Khan, J., & Alam, Z. (Minor revision). Agglomeration economies and regional inequalities: Theory and evidence from provincial China. *Journal of Chinese Economic and Business Studies*.
 
-[4] Xiao, X., Khan, J., & Zheng, J. (Under Review). Structural changes and sectoral linkages: Unveiling the ICT sector's role in China and India. *Telecommunication Policy*.
+[4] Xiao, X., Khan, J., & **Zheng, J.** (Under Review). Structural changes and sectoral linkages: Unveiling the ICT sector's role in China and India. *Telecommunication Policy*.
 
-[5] Zheng, J., Zhao, Z., & Liu, Y. (Under Review). Investigating Chinese students' behavior towards water saving. *International Journal of Social Sciences and Sustainability (IJSSS)*.
+[5] **Zheng, J.**, Zhao, Z., & Liu, Y. (Under Review). Investigating Chinese students' behavior towards water saving. *International Journal of Social Sciences and Sustainability (IJSSS)*.
 
 [6] Khan, J., Li, Y. (2023). Linkages and Structural Changes in the Chinese Financial Sector, 1996–2018: A Network and Input–Output Approach. *Structural Change and Economic Dynamics* (acknowledged).
 
