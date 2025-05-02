@@ -56,7 +56,8 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 
 • This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. I contributed as the translator for Chapter 3: Geographical Accessibility and Human Capital Accumulation.
 
-[8] "Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?" Li Yuan, & Jamal Khan. Peter Lang, in process. (acknowledged)
+[8] "Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?" Li Yuan, & Jamal Khan. Peter Lang, in process. (acknowledged）
+
 ---
 
 ## 🏆 Achievements & Honors
