@@ -3,16 +3,21 @@
 ---
 
 ## 🚀 About Me
-A passionate technologist and innovative developer specializing in machine learning and data science. I'm committed to exploring and applying cutting-edge technologies to solve complex real-world problems. Now I am a research assistant in Institute of International Studies, Shandong University and HKGAI, The Hong Kong University of Science and Technology.
+I am currently an undergraduate student majoring in Bioengineering at Marine College, Shandong University. Previously, I studied chemical engineering at Dalian University of Technology from 2019 to 2021.
+
+I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. Jamal Khan and Prof. Yuan Li.
+
+I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. Zhifu Mi and Dr. Haoran Zhang at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, participating in data processing work for the research group, and conducting research in the fields of large language models (LLMs).
+
+I am a member of International Input-Output Association (IIOA), the Chinese Society of Optimization, Overall Planning, and Economical Mathematics, and the Beijing Society of Image and Graphics. You can find my academic profile on ORCID.
+
+If you have any inquiries or would like to connect, please feel free to reach out via [email](karcenzheng17@gmail.com).
 
 ---
 
 ## 🔬 Research Interests
-- Deep Learning
-- Data Analysis
-- Artificial Intelligence Algorithms
-- Input-Output Analysis
-- Global Value Chains
+- Data Science
+- LLMs
 
 ---
 
@@ -27,21 +32,40 @@ A passionate technologist and innovative developer specializing in machine learn
 
 ## 📈 Project Highlights
 
-### 🤖 Machine Learning Projects
-1. **Intelligent Data Analysis Tools**
-   - Utilizing advanced machine learning algorithms
-   - Implementing pattern recognition in complex datasets
+### 🤖 Projects & Publications
+#### Projects
+1. **All-Modality Alignment Framework**
+   - [align-anything](https://github.com/PKU-Alignment/align-anything)
+  
+#### Publications
+[1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (contributed to data analysis, modeling and visualization).
 
-2. **Deep Learning Models**
-   - Developing innovative neural network architectures
-   - Solving complex problems in real-world applications
+[2] Khan, J., Li, Y., & Zheng, J. (Under Review). Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach. *Review of Development Economics*.
 
+[3] Zheng, J., Khan, J., & Alam, Z. (Minor revision). Agglomeration economies and regional inequalities: Theory and evidence from provincial China. *Journal of Chinese Economic and Business Studies*.
+
+[4] Xiao, X., Khan, J., & Zheng, J. (Under Review). Structural changes and sectoral linkages: Unveiling the ICT sector's role in China and India. *Telecommunication Policy*.
+
+[5] Zheng, J., Zhao, Z., & Liu, Y. (Under Review). Investigating Chinese students' behavior towards water saving. *International Journal of Social Sciences and Sustainability (IJSSS)*.
+
+[6] Khan, J., Li, Y. (2023). Linkages and Structural Changes in the Chinese Financial Sector, 1996–2018: A Network and Input–Output Approach. *Structural Change and Economic Dynamics* (acknowledged).
+
+• This study highlights the significant impact of the Chinese financial sector on downstream growth, its vital intermediary role, and the internalization that followed the global financial crisis. It underscores the importance of integrated policies for managing evolving systemic risks in light of shifting intersectoral dynamics.
+
+[7] Crespo, R., & Rodríguez-Pose, A. (2024). *Innovation and Regional Growth in Europe* ([Ren Jianhui], Ed.). Beijing: Economic Management Press.
+
+• This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. I contributed as the translator for Chapter 3: Geographical Accessibility and Human Capital Accumulation.
+
+[8] "Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?" Li Yuan, & Jamal Khan. Peter Lang, in process. (acknowledged)
 ---
 
 ## 🏆 Achievements & Honors
-- Contributor to multiple open-source projects
-- Technical blogger
-- Participant in mathematical modeling and machine learning competitions
+- IIOA Travel Grant($3000), 2025(I saw on my COMPASS system that I had received a TG, but a few days later I received an email saying that my TG had been cancelled due to exceeding the budget.)
+- National Encouragement Scholarship(SDU, 5000RMB), 2023
+- Tertiary Scholarship of Distinction(SDU, 1000RMB), 2023
+- Secondary Scholarship(DUT, 500RMB), 2020
+- Scholarship for Excellence in Character and Civic Spirit(DUT, 400RMB), 2020
+- National Scholarship(DUT, 8000RMB), 2020
 
 ---
 
@@ -58,7 +82,7 @@ A passionate technologist and innovative developer specializing in machine learn
 ---
 
 ## 💌 Contact
-[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail)](mailto:karcenzheng@yeah.net)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail)](mailto:karcenzheng17@gmail.net)
 
 ---
 
