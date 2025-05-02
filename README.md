@@ -52,7 +52,7 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 
 • This study highlights the significant impact of the Chinese financial sector on downstream growth, its vital intermediary role, and the internalization that followed the global financial crisis. It underscores the importance of integrated policies for managing evolving systemic risks in light of shifting intersectoral dynamics.
 
-[7] Crespo, R., & Rodríguez-Pose, A. (2024). *Innovation and Regional Growth in Europe* ([Ren Jianhui], Ed.). Beijing: Economic Management Press.
+[7] Crespo, R., & Rodríguez-Pose, A. (2024). *Innovation and Regional Growth in Europe* ([Ren Jianhui], Ed.). Beijing: Economic Management Press. [You can buy it here!](https://item.jd.com/10132016379518.html)
 
 • This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. I contributed as the translator for Chapter 3: Geographical Accessibility and Human Capital Accumulation.
 
