@@ -7,9 +7,7 @@ I am currently an undergraduate student majoring in Bioengineering at Marine Col
 
 I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm) and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
 
-I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, corporating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in data alignment. Group PI: [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan).
-
-I am a member of [International Input-Output Association (IIOA)](https://www.iioa.org/), the [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx), and the [Beijing Society of Image and Graphics](http://www.bsig.org.cn/). You can find my academic profile on [ORCID](https://orcid.org/0009-0003-1318-7986).
+I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in data alignment. Group PI: [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan).
 
 If you have any inquiries or would like to connect, please feel free to reach out via [email](karcenzheng17@gmail.com).
 
@@ -20,6 +18,23 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 - LLMs
 
 ---
+
+### 🧪 Research Experience
+
+- **Research Assistant**, *Institute of International Studies, Shandong University*  
+  Supervisors: [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm), [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm)
+
+- **Intern**, *Climate Change Economics and Low Carbon Transition Group, University College London* (May–Aug 2024)  
+  Worked under [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407), contributing to the **IPCC database**
+
+- **Research Intern**, *HKGAI, The Hong Kong University of Science and Technology* (Present)  
+  Working on government-level LLM deployment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/), supervised by [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan)
+
+### 🔗 Memberships
+
+- [International Input-Output Association (IIOA)](https://www.iioa.org/)
+- [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx)
+- [Beijing Society of Image and Graphics](http://www.bsig.org.cn/)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -41,7 +56,7 @@ If you have any inquiries or would like to connect, please feel free to reach ou
    - Finished.
   
 #### Publications
-[1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (contributed to data analysis, modeling and visualization).
+[1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (Contributed to data analysis, model development, and visualization).
 
 [2] Khan, J., Li, Y., & **Zheng, J.** (Under Review). Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach. *Review of Development Economics*.
 
@@ -57,7 +72,7 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 
 [7] Crespo, R., & Rodríguez-Pose, A. (2024). *Innovation and Regional Growth in Europe* ([Ren Jianhui], Ed.). Beijing: Economic Management Press. [You can buy it here!](https://item.jd.com/10132016379518.html)
 
-• This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. I contributed as the translator for Chapter 3: Geographical Accessibility and Human Capital Accumulation.
+• This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. Translated Chapter 3: "Geographical Accessibility and Human Capital Accumulation".
 
 [8] "Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?" Li Yuan, & Jamal Khan. Peter Lang, in process. (acknowledged）
 
