@@ -37,6 +37,9 @@ If you have any inquiries or would like to connect, please feel free to reach ou
 1. **All-Modality Alignment Framework**
    - [align-anything](https://github.com/PKU-Alignment/align-anything)
   
+2. **Research on the Evaluation Index System of Soft Connectivity of Rules for the Belt and Road Initiative, 2021 National Social Science Fund Project**
+   - Finished.
+  
 #### Publications
 [1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (contributed to data analysis, modeling and visualization).
 
