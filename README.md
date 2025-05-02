@@ -28,7 +28,7 @@ If you have any inquiries or would like to connect, please feel free to reach ou
   Worked under [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407), contributing to the **IPCC database**
 
 - **Research Intern**, *HKGAI, The Hong Kong University of Science and Technology* (Present)  
-  Working on government-level LLM deployment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/), supervised by [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan)
+  Working on multi-modality LLM data alignment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/), supervised by [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan)
 
 ### 🔗 Memberships
 
