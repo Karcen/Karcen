@@ -9,7 +9,7 @@ I have participated in data science research as a research assistant at the Inst
 
 I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, corporating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in LLMs. Group PI: [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan).
 
-I am a member of [International Input-Output Association (IIOA)]https://www.iioa.org/), the [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx), and the [Beijing Society of Image and Graphics](http://www.bsig.org.cn/). You can find my academic profile on [ORCID](https://orcid.org/0009-0003-1318-7986).
+I am a member of [International Input-Output Association (IIOA)](https://www.iioa.org/), the [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx), and the [Beijing Society of Image and Graphics](http://www.bsig.org.cn/). You can find my academic profile on [ORCID](https://orcid.org/0009-0003-1318-7986).
 
 If you have any inquiries or would like to connect, please feel free to reach out via [email](karcenzheng17@gmail.com).
 
