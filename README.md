@@ -5,9 +5,9 @@
 ## 🚀 About Me
 I am currently an undergraduate student majoring in Bioengineering at Marine College, Shandong University. Previously, I studied chemical engineering at Dalian University of Technology from 2019 to 2021.
 
-I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. Jamal Khan and Prof. Yuan Li.
+I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm) and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
 
-I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. Zhifu Mi and Dr. Haoran Zhang at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, participating in data processing work for the research group, and conducting research in the fields of large language models (LLMs).
+I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, corporating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in LLMs. Group PI: [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan).
 
 I am a member of International Input-Output Association (IIOA), the Chinese Society of Optimization, Overall Planning, and Economical Mathematics, and the Beijing Society of Image and Graphics. You can find my academic profile on ORCID.
 
