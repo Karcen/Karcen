@@ -7,7 +7,7 @@ I am currently an undergraduate student majoring in Bioengineering at Marine Col
 
 I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm) and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
 
-I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in data alignment. Group PI: [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan).
+I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in data alignment.
 
 If you have any inquiries or would like to connect, please feel free to reach out via [email](karcenzheng17@gmail.com).
 
@@ -28,7 +28,7 @@ If you have any inquiries or would like to connect, please feel free to reach ou
   Worked under [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407), contributing to the **IPCC database**
 
 - **Research Intern**, *HKGAI, The Hong Kong University of Science and Technology* (Present)  
-  Working on multi-modality LLM data alignment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/), supervised by [Sirui Han](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sirui-han-siruihan)
+  Working on multi-modality LLM data alignment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/).
 
 ### 🔗 Memberships
 
@@ -57,25 +57,54 @@ If you have any inquiries or would like to connect, please feel free to reach ou
    - Finished
   
 #### Publications
-[1] Khan, J., Li, Y., & Girardin, E. (Under Review). The effectiveness of Unilateral vs. multilateral Carbon adjustment mechanisms under WTO and Climate rules. *One Earth* (Contributed to data analysis, model development, and visualization).
+##### Under Review
 
-[2] Khan, J., Li, Y., & **Zheng, J.** (Under Review). Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach. *Review of Development Economics*.
+- **Chen, B., Hong, D., Ji, J., Zheng, J., Dong, B., Zhou, J., Wang, K., Dai, J., Wang, X., Chen, W., Zheng, Q., Li, W., Han, S., Guo, Y., & Yang, Y.**  
+  *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
+  Submitted to *NeurIPS 2025*. [Project Website](https://pku-intermt.github.io)
 
-[3] **Zheng, J.**, Khan, J., & Alam, Z. (Minor revision). Agglomeration economies and regional inequalities: Theory and evidence from provincial China. *Journal of Chinese Economic and Business Studies*.
+- **Khan, J., Li, Y., & Girardin, E.**  
+  *The effectiveness of unilateral vs. multilateral carbon adjustment mechanisms under WTO and climate rules*.  
+  Submitted to *One Earth*.  
+  *(Contributed to data analysis, model development, and visualization).*
 
-[4] Xiao, X., Khan, J., & **Zheng, J.** (Under Review). Structural changes and sectoral linkages: Unveiling the ICT sector's role in China and India. *Telecommunication Policy*.
+- **Khan, J., Li, Y., & Zheng, J.**  
+  *Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach*.  
+  Submitted to *Review of Development Economics*.
 
-[5] **Zheng, J.**, Zhao, Z., & Liu, Y. (Under Review). Investigating Chinese students' behavior towards water saving. *International Journal of Social Sciences and Sustainability (IJSSS)*.
+- **Zheng, J., Khan, J., & Alam, Z.**  
+  *Agglomeration economies and regional inequalities: Theory and evidence from provincial China*.  
+  *Journal of Chinese Economic and Business Studies*. *(Minor Revision)*
 
-[6] Khan, J., Li, Y. (2023). Linkages and Structural Changes in the Chinese Financial Sector, 1996–2018: A Network and Input–Output Approach. *Structural Change and Economic Dynamics* (acknowledged).
+- **Xiao, X., Khan, J., & Zheng, J.**  
+  *Structural changes and sectoral linkages: Unveiling the ICT sector’s role in China and India*.  
+  Submitted to *Telecommunication Policy*.
 
-• This study highlights the significant impact of the Chinese financial sector on downstream growth, its vital intermediary role, and the internalization that followed the global financial crisis. It underscores the importance of integrated policies for managing evolving systemic risks in light of shifting intersectoral dynamics.
+- **Zheng, J., Zhao, Z., & Liu, Y.**  
+  *Investigating Chinese students' behavior towards water saving*.  
+  Submitted to *International Journal of Social Sciences and Sustainability (IJSSS)*.
 
-[7] Crespo, R., & Rodríguez-Pose, A. (2024). *Innovation and Regional Growth in Europe* ([Ren Jianhui], Ed.). Beijing: Economic Management Press. [You can buy it here!](https://item.jd.com/10132016379518.html)
+##### Published
 
-• This book explores the complex relationship between innovation and regional growth, applying the social filter theory. It examines how collaborations among universities, research institutions, industries, and government entities drive regional innovation. Special focus is given to Europe's mechanisms for external innovation absorption and China's distinctive innovation dynamics, including the Belt and Road Initiative and dual circulation development strategy. Translated Chapter 3: "Geographical Accessibility and Human Capital Accumulation".
+- **Khan, J., & Li, Y.** (2023).  
+  *Linkages and structural changes in the Chinese financial sector, 1996–2018: A network and input–output approach*.  
+  *Structural Change and Economic Dynamics*.  
+  *(Acknowledged)*  
+  > This study highlights the financial sector's critical role in downstream industrial growth and its transformation after the global financial crisis. It emphasizes the need for integrated policies to manage evolving systemic risks.
 
-[8] "Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?" Li Yuan, & Jamal Khan. Peter Lang, in process. (acknowledged）
+##### Translations and Book Contributions
+
+- **Crespo, R., & Rodríguez-Pose, A.** (2024).  
+  *Innovation and Regional Growth in Europe* (Ren Jianhui, Ed.).  
+  Beijing: Economic Management Press.  
+  *(Translated Chapter 3: "Geographical Accessibility and Human Capital Accumulation")*  
+  > This book explores the interplay between innovation and regional growth using social filter theory. It emphasizes collaborative innovation among academia, industry, and government, and contrasts European innovation absorption mechanisms with China's models under the Belt and Road Initiative and dual circulation strategy.
+
+##### In Progress
+
+- **Li, Y., & Khan, J.**  
+  *Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?*  
+  Peter Lang. *(Acknowledged)*
 
 ---
 
