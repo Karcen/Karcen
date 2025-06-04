@@ -3,13 +3,13 @@
 ---
 
 ## 🚀 About Me
-I am currently an undergraduate student majoring in Bioengineering at Marine College, Shandong University. Previously, I studied chemical engineering at Dalian University of Technology from 2019 to 2021.
+Thank you for visiting my GitHub. I am currently an undergraduate student majoring in Bioengineering at the Marine College of Shandong University. Prior to this, I studied Chemical Engineering at Dalian University of Technology from 2019 to 2021.
 
-I have participated in data science research as a research assistant at the Institute of International Studies, Shandong University, under the guidance of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm) and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
+I have engaged in data science research as a research assistant at the Institute of International Studies, Shandong University, working under the mentorship of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
 
-I was a member of the Climate Change Economics and Low Carbon Transition team from 2024.05-2024.08 under the supervision of Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) at University College London where I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Now I am a Research Intern in HKGAI, The Hongkong University of Science and Technology, deploying the HKGAI large model for the Hong Kong government, collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University in data alignment.
+From May to August 2024, I was part of the Climate Change Economics and Low Carbon Transition team at University College London, supervised by Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) During this time, I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Additionally, I worked as a Research Intern at the Hong Kong General AI (HKGAI) project, The Hong Kong University of Science and Technology, where I helped deploy the HKGAI large model for the Hong Kong government. This involved collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University on data alignment.
 
-If you have any inquiries or would like to connect, please feel free to reach out via [email](karcenzheng17@gmail.com).
+If you have any questions or would like to get in touch, please feel free to contact me via [email](karcenzheng17@gmail.com).
 
 ---
 
