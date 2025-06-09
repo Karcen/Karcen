@@ -112,6 +112,7 @@ If you have any questions or would like to get in touch, please feel free to con
 - IIOA Travel Grant($3000), 2025(I saw on my COMPASS system that I had received a TG, but a few days later I received an email saying that my TG had been cancelled due to exceeding the budget.)
 - National Encouragement Scholarship(SDU, 5000RMB), 2023
 - Tertiary Scholarship of Distinction(SDU, 1000RMB), 2023
+- PwC Open Day(Selected through Golden Education Elite Enterprise Challenge (高顿名企挑战赛) Semi-Final Excellence Award, one of two publicly funded participants from Weihai region. 450RMB), 2023
 - Secondary Scholarship(DUT, 500RMB), 2020
 - Scholarship for Excellence in Character and Civic Spirit(DUT, 400RMB), 2020
 - National Scholarship(DUT, 8000RMB), 2020
