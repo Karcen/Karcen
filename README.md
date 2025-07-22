@@ -72,19 +72,14 @@ If you have any questions or would like to get in touch, please feel free to con
   *Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach*.  
   Submitted to *Review of Development Economics*.
 
-- **Zheng, J., Khan, J., & Alam, Z.**  
-  *Agglomeration economies and regional inequalities: Theory and evidence from provincial China*.  
-  *Journal of Chinese Economic and Business Studies*. *(Minor Revision)*
-
 - **Xiao, X., Khan, J., & Zheng, J.**  
   *Structural changes and sectoral linkages: Unveiling the ICT sector’s role in China and India*.  
   Submitted to *Telecommunication Policy*.
 
-- **Zheng, J., Zhao, Z., & Liu, Y.**  
-  *Investigating Chinese students' behavior towards water saving*.  
-  Submitted to *International Journal of Social Sciences and Sustainability (IJSSS)*.
-
 ##### Published
+- **Zheng, J., Khan, J., & Alam, Z.**  
+  *Agglomeration economies and regional inequalities: Theory and evidence from provincial China*.  
+  *Journal of Chinese Economic and Business Studies*.
 
 - **Khan, J., & Li, Y.** (2023).  
   *Linkages and structural changes in the Chinese financial sector, 1996–2018: A network and input–output approach*.  
