@@ -14,8 +14,10 @@ If you have any questions or would like to get in touch, please feel free to con
 ---
 
 ## 🔬 Research Interests
-- Data Science
-- LLMs
+- Input–Output Analysis (IOA)
+- Global Value Chains (GVCs)
+- Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLMs)
+- Data Science for Climate and Economics
 
 ---
 
