@@ -77,7 +77,7 @@ If you have any questions or would like to get in touch, please feel free to con
   Submitted to *Telecommunication Policy*.
 
 ##### Published
-- **Zheng, J., Khan, J., & Alam, Z.**  
+- **Zheng, J., Khan, J., & Alam, Z.**  (2025). 
   *Agglomeration economies and regional inequalities: Theory and evidence from provincial China*.  
   *Journal of Chinese Economic and Business Studies*.
 
