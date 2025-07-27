@@ -35,9 +35,9 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ## 🔗 Memberships
 
-- [International Input-Output Association (IIOA)](https://www.iioa.org/)  
-- [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx)  
-- [Beijing Society of Image and Graphics](http://www.bsig.org.cn/)
+- [International Input-Output Association (IIOA), 2025-2026](https://www.iioa.org/)  
+- [Chinese Society of Optimization, Overall Planning, and Economical Mathematics, 2023-2024](http://www.scope.org.cn/default.aspx)  
+- [Beijing Society of Image and Graphics, 2023-2024](http://www.bsig.org.cn/)
 
 ---
 
