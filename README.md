@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 Thank you for visiting my GitHub. I am an undergraduate student (Class of 2022) majoring in **Bioengineering** at the *Marine College*, [Shandong University (Weihai)](https://www.en.sdu.edu.cn/).  
-Previously, I studied **Chemical Engineering** at [Dalian University of Technology](https://en.dlut.edu.cn/) (2019–2021), and later participated in a **dual-degree program** in International Politics and International Economics at the *Northeast Asia College*, Shandong University (2022–2023).
+Previously, I studied **Chemical Engineering** at [Dalian University of Technology](https://en.dlut.edu.cn/) (2019–2021), and later participated in a **dual-degree program** in International Politics and International Economics at the *Northeast Asia Studies*, Shandong University (2022–2023).
 
 ---
 
