@@ -3,15 +3,27 @@
 ---
 
 ## 🚀 About Me
-Thank you for visiting my GitHub. I am currently an undergraduate student majoring in Bioengineering at the Marine College of Shandong University. Prior to this, I studied Chemical Engineering at Dalian University of Technology from 2019 to 2021.
+# Welcome
 
-I have engaged in data science research as a research assistant at the Institute of International Studies, Shandong University, working under the mentorship of Dr. [Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  and Prof. [Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm).
-
-From May to August 2024, I was part of the Climate Change Economics and Low Carbon Transition team at University College London, supervised by Prof. [Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and Dr. [Haoran Zhang](https://orcid.org/0000-0002-8751-5407) During this time, I contributed to the development of the Intergovernmental Panel on Climate Change (IPCC) database. Additionally, I worked as a Research Intern at the Hong Kong General AI (HKGAI) project, The Hong Kong University of Science and Technology, where I helped deploy the HKGAI large model for the Hong Kong government. This involved collaborating with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University on data alignment.
-
-If you have any questions or would like to get in touch, please feel free to contact me via [email](karcenzheng17@gmail.com).
+Thank you for visiting my GitHub. I am currently an undergraduate student (Class of 2022) majoring in **Bioengineering** at the *Marine College*, [Shandong University (Weihai)](https://www.en.sdu.edu.cn/). Prior to this, I studied **Chemical Engineering** at [Dalian University of Technology](https://en.dlut.edu.cn/) from 2019 to 2021, and participated in a **dual-degree program** in International Politics and International Economics at the *Northeast Asia College*, Shandong University (2022–2023).
 
 ---
+
+## 🧪 Research Experience
+
+- **Research Assistant**, [Regional and Country-Specific Big Data Analysis Center](https://iis.wh.sdu.edu.cn/), *Institute of International Studies, Shandong University* (2023–2025)  
+  PI: [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm) and [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  
+  Focus: Country-level carbon accounting, trade network analysis, GVC modeling.
+
+- **Research Intern**, *Climate Change Economics and Low Carbon Transition Team*, [University College London](https://www.ucl.ac.uk/bartlett/construction/) (May–Aug 2024)  
+  PI: [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407)  
+  Contribution: Developed components of the **IPCC emissions and mitigation database**.
+
+- **Research Assistant**, *Hong Kong General AI (HKGAI)* Project, [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (2025)  
+  Role: Deployed HKGAI's large model for the Hong Kong government; collaborated on data alignment with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University.
+
+---
+
 
 ## 🔬 Research Interests
 - Input–Output Analysis (IOA)
