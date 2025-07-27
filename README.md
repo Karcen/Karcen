@@ -114,13 +114,13 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ## 🏆 Awards & Honors
 
-- **IIOA Travel Grant** ($3000), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
-- **National Encouragement Scholarship** (Shandong University, ¥5000), 2023  
-- **Tertiary Scholarship of Distinction** (Shandong University, ¥1000), 2023  
-- **PwC Open Day Participant**, via Golden Education Elite Challenge (¥450), 2023  
-- **Secondary Scholarship** (Dalian University of Technology, ¥500), 2020  
-- **Scholarship for Excellence in Character & Civic Spirit** (DUT, ¥400), 2020  
-- **National Scholarship** (DUT, ¥8000), 2020  
+- **IIOA Travel Grant** (USD 3000), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
+- **National Encouragement Scholarship** (Shandong University, RMB 5000), 2023  
+- **Tertiary Scholarship of Distinction** (Shandong University, RMB 1000), 2023  
+- **PwC Open Day Participant**, via Golden Education Elite Challenge (RMB 450), 2023  
+- **Secondary Scholarship** (Dalian University of Technology, RMB 500), 2020  
+- **Scholarship for Excellence in Character & Civic Spirit** (DUT, RMB 400), 2020  
+- **National Scholarship** (DUT, RMB 8000), 2020  
 
 ---
 
