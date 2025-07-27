@@ -17,7 +17,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 - **Research Intern**, *Climate Change Economics and Low Carbon Transition Team* ([UCL](https://www.ucl.ac.uk/bartlett/construction/)) (May–Aug 2024)  
   Supervised by [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) & [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407)  
-  Contribution: Helped develop the references for the **Intergovernmental Panel on Climate Change (IPCC)**.
+  Contribution: Analyzing citation patterns of the Intergovernmental Panel on Climate Change Assessment Reports**.
 
 - **Research Intern**, *HKGAI Project*, [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (2025)  
   Role: Contributed to deploying the HKGAI large model for the Hong Kong government. Collaborated with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) on data alignment for multi-modal LLM systems, submitted one paper to NeurIPS 2025.
