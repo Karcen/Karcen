@@ -3,54 +3,46 @@
 ---
 
 ## 🚀 About Me
-# Welcome
 
-Thank you for visiting my GitHub. I am currently an undergraduate student (Class of 2022) majoring in **Bioengineering** at the *Marine College*, [Shandong University (Weihai)](https://www.en.sdu.edu.cn/). Prior to this, I studied **Chemical Engineering** at [Dalian University of Technology](https://en.dlut.edu.cn/) from 2019 to 2021, and participated in a **dual-degree program** in International Politics and International Economics at the *Northeast Asia College*, Shandong University (2022–2023).
+Thank you for visiting my GitHub. I am an undergraduate student (Class of 2022) majoring in **Bioengineering** at the *Marine College*, [Shandong University (Weihai)](https://www.en.sdu.edu.cn/).  
+Previously, I studied **Chemical Engineering** at [Dalian University of Technology](https://en.dlut.edu.cn/) (2019–2021), and later participated in a **dual-degree program** in International Politics and International Economics at the *Northeast Asia College*, Shandong University (2022–2023).
 
 ---
 
 ## 🧪 Research Experience
 
-- **Research Assistant**, [Regional and Country-Specific Big Data Analysis Center](https://iis.wh.sdu.edu.cn/), *Institute of International Studies, Shandong University* (2023–2025)  
-  PI: [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm) and [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  
-  Focus: Country-level carbon accounting, trade network analysis, GVC modeling.
+- **Research Assistant**, [Regional and Country-Specific Big Data Analysis Center (区域国别大数据分析中心)](https://iis.wh.sdu.edu.cn/), *Institute of International Studies, Shandong University* (2023–2025)  
+  PIs: [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm) & [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  
+  Focus: Carbon accounting, trade network analysis, and global value chain (GVC) modeling.
 
-- **Research Intern**, *Climate Change Economics and Low Carbon Transition Team*, [University College London](https://www.ucl.ac.uk/bartlett/construction/) (May–Aug 2024)  
-  PI: [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407)  
-  Contribution: Developed components of the **IPCC emissions and mitigation database**.
+- **Research Intern**, *Climate Change Economics and Low Carbon Transition Team* ([UCL](https://www.ucl.ac.uk/bartlett/construction/)) (May–Aug 2024)  
+  Supervised by [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) & [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407)  
+  Contribution: Helped develop the emissions and mitigation database for the **Intergovernmental Panel on Climate Change (IPCC)**.
 
-- **Research Assistant**, *Hong Kong General AI (HKGAI)* Project, [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (2025)  
-  Role: Deployed HKGAI's large model for the Hong Kong government; collaborated on data alignment with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) from Peking University.
+- **Research Intern**, *HKGAI Project*, [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (2025)  
+  Role: Contributed to deploying the HKGAI large model for the Hong Kong government. Collaborated with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) on data alignment for multi-modal LLM systems.
 
 ---
-
 
 ## 🔬 Research Interests
-- Input–Output Analysis (IOA)
-- Global Value Chains (GVCs)
-- Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLMs)
-- Data Science for Climate and Economics
+
+- Input–Output Analysis (IOA)  
+- Global Value Chains (GVCs)  
+- Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLMs)  
+- Data Science for Climate and Economics  
 
 ---
 
-### 🧪 Research Experience
+## 🔗 Memberships
 
-- **Research Assistant**, *Institute of International Studies, Shandong University*  
-  Supervisors: [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm), [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm)
-
-- **Intern**, *Climate Change Economics and Low Carbon Transition Group, University College London* (May–Aug 2024)  
-  Worked under [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) and [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407), contributing to the **IPCC database**
-
-- **Research Intern**, *HKGAI, The Hong Kong University of Science and Technology* (Present)  
-  Working on multi-modality LLM data alignment with [Jiaming Ji](https://jijiaming.com/), [Boyuan Chen](https://cby-pku.github.io/).
-
-### 🔗 Memberships
-
-- [International Input-Output Association (IIOA)](https://www.iioa.org/)
-- [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx)
+- [International Input-Output Association (IIOA)](https://www.iioa.org/)  
+- [Chinese Society of Optimization, Overall Planning, and Economical Mathematics](http://www.scope.org.cn/default.aspx)  
 - [Beijing Society of Image and Graphics](http://www.bsig.org.cn/)
 
+---
+
 ## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
@@ -61,90 +53,97 @@ Thank you for visiting my GitHub. I am currently an undergraduate student (Class
 
 ## 📈 Project Highlights
 
-### 🤖 Projects & Publications
-#### Projects
-1. **All-Modality Alignment Framework**
-   - [align-anything](https://github.com/PKU-Alignment/align-anything)
-  
-2. **Research on the Evaluation Index System of Soft Connectivity of Rules for the Belt and Road Initiative**
-   - 2021 National Social Science Fund Project
-   - Finished
-  
-#### Publications
-##### Under Review
+### 🧠 Projects
 
-- **Chen, B., Hong, D., Ji, J., Zheng, J., Dong, B., Zhou, J., Wang, K., Dai, J., Wang, X., Chen, W., Zheng, Q., Li, W., Han, S., Guo, Y., & Yang, Y.**  
+1. **All-Modality Alignment Framework**  
+   [align-anything](https://github.com/PKU-Alignment/align-anything)
+
+2. **Evaluation Index System for Rule-Based Soft Connectivity under the Belt and Road Initiative**  
+   Supported by the National Social Science Fund (2021) — *Completed*
+
+---
+
+## 📄 Publications & Works
+
+### 📝 Under Review
+
+- **Chen, B., Hong, D., Ji, J., Zheng, J., et al.**  
   *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
-  Submitted to *NeurIPS 2025*. [Project Website](https://pku-intermt.github.io)
+  Submitted to **NeurIPS 2025**. [Project Website](https://pku-intermt.github.io)
 
 - **Khan, J., Li, Y., & Girardin, E.**  
-  *The effectiveness of unilateral vs. multilateral carbon adjustment mechanisms under WTO and climate rules*.  
+  *The Effectiveness of Unilateral vs. Multilateral Carbon Adjustment Mechanisms under WTO and Climate Rules*.  
   Submitted to *One Earth*.  
-  *(Contributed to data analysis, model development, and visualization).*
+  *(Contributed to data analysis, modeling, and visualization.)*
 
 - **Khan, J., Li, Y., & Zheng, J.**  
-  *Sectoral growth dynamics, domestic linkages, and GVC movement in Pakistan: A single and multi-regional input-output modeling approach*.  
+  *Sectoral Growth Dynamics and GVC Movement in Pakistan: A Multi-Regional Input–Output Approach*.  
   Submitted to *Review of Development Economics*.
 
 - **Xiao, X., Khan, J., & Zheng, J.**  
-  *Structural changes and sectoral linkages: Unveiling the ICT sector’s role in China and India*.  
+  *Structural Shifts and ICT Sector Linkages in China and India*.  
   Submitted to *Telecommunication Policy*.
 
-##### Published
-- **Zheng, J., Khan, J., & Alam, Z.**  (2025). 
-  *Agglomeration economies and regional inequalities: Theory and evidence from provincial China*.  
+### ✅ Published
+
+- **Zheng, J., Khan, J., & Alam, Z.** (2025).  
+  *Agglomeration Economies and Regional Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
 - **Khan, J., & Li, Y.** (2023).  
-  *Linkages and structural changes in the Chinese financial sector, 1996–2018: A network and input–output approach*.  
+  *Linkages and Structural Changes in the Chinese Financial Sector (1996–2018): A Network and Input–Output Approach*.  
   *Structural Change and Economic Dynamics*.  
-  *(Acknowledged)*  
-  > This study highlights the financial sector's critical role in downstream industrial growth and its transformation after the global financial crisis. It emphasizes the need for integrated policies to manage evolving systemic risks.
+  *(Acknowledged contributor.)*
 
-##### Translations and Book Contributions
+> This study highlights the financial sector's pivotal role in post-crisis transformation and downstream industrial linkages.
+
+### 📚 Book Contributions
 
 - **Crespo, R., & Rodríguez-Pose, A.** (2024).  
-  *Innovation and Regional Growth in Europe* (Ren Jianhui, Ed.).  
+  *Innovation and Regional Growth in Europe* (Chapter 3 translated).  
   Beijing: Economic Management Press.  
-  *(Translated Chapter 3: "Geographical Accessibility and Human Capital Accumulation")*  
-  > This book explores the interplay between innovation and regional growth using social filter theory. It emphasizes collaborative innovation among academia, industry, and government, and contrasts European innovation absorption mechanisms with China's models under the Belt and Road Initiative and dual circulation strategy.
+  > This book examines social filter theory, cross-sector collaboration, and European-Chinese contrasts in innovation and regional policy.
 
-##### In Progress
+### 🏗️ In Progress
 
 - **Li, Y., & Khan, J.**  
-  *Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?*  
-  Peter Lang. *(Acknowledged)*
+  *Wind from the East: How the Belt and Road Initiative Connects Continents*.  
+  Peter Lang. *(Acknowledged contributor)*
 
 ---
 
-## 🏆 Achievements & Honors
-- IIOA Travel Grant($3000), 2025(I saw on my COMPASS system that I had received a TG, but a few days later I received an email saying that my TG had been cancelled due to exceeding the budget.)
-- National Encouragement Scholarship(SDU, CNY 5000), 2023
-- Tertiary Scholarship of Distinction(SDU, CNY 1000), 2023
-- PwC Open Day(Selected through Golden Education Elite Enterprise Challenge (高顿名企挑战赛) Semi-Final Excellence Award, one of two publicly funded participants from Weihai region. CNY 450), 2023
-- Secondary Scholarship(DUT, CNY 500), 2020
-- Scholarship for Excellence in Character and Civic Spirit(DUT, CNY 400), 2020
-- National Scholarship(DUT, CNY 8000), 2020
+## 🏆 Awards & Honors
+
+- **IIOA Travel Grant** ($3000), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
+- **National Encouragement Scholarship** (Shandong University, ¥5000), 2023  
+- **Tertiary Scholarship of Distinction** (Shandong University, ¥1000), 2023  
+- **PwC Open Day Participant**, via Golden Education Elite Challenge (¥450), 2023  
+- **Secondary Scholarship** (Dalian University of Technology, ¥500), 2020  
+- **Scholarship for Excellence in Character & Civic Spirit** (DUT, ¥400), 2020  
+- **National Scholarship** (DUT, ¥8000), 2020  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karcen&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karcen&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Website
-- [Personal Website](https://karcen.github.io/zhengjiacheng.github.io/)  
-- [Zhihu](https://www.zhihu.com/people/karcenzheng)
+## 🌐 Website & Profiles
+
+- 🌐 [Personal Website](https://karcen.github.io/zhengjiacheng.github.io/)  
+- ✍️ [Zhihu](https://www.zhihu.com/people/karcenzheng)
 
 ---
 
 ## 💌 Contact
-[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail)](mailto:karcenzheng17@gmail.net)
+
+[![Email](https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail)](mailto:karcenzheng17@gmail.com)
 
 ---
 
-📢 **Keep learning, never stop!**  
+📢 *Keep learning, never stop.*  
 
-⭐ From [Karcen](https://github.com/Karcen)
+⭐️ From [Karcen](https://github.com/Karcen)
