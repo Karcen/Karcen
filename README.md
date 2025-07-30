@@ -11,7 +11,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ## 🧪 Research Experience
 
-- **Research Assistant**, [Regional and Country-Specific Big Data Analysis Center (区域国别大数据分析中心)](https://iis.wh.sdu.edu.cn/), *Institute of International Studies, Shandong University* (2023–2025)  
+- **Research Assistant**, [Center for Data Analysis on Area and Country Studies (区域国别研究数据分析中心)](https://iis.wh.sdu.edu.cn/), *Institute of International Studies, Shandong University* (2023–2025)  
   PIs: [Prof. Yuan Li](https://esnea.wh.sdu.edu.cn/info/1024/1208.htm) & [Dr. Jamal Khan](https://iis.wh.sdu.edu.cn/info/1216/2395.htm)  
   Focus: Carbon accounting, trade network analysis, and global value chain (GVC) modeling.
 
