@@ -90,7 +90,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   *Agglomeration Economies and Regional Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
-- **Khan, J., & Li, Y.** (2023).  
+- **Khan, J., & Li, Y.** (2024).  
   *Linkages and Structural Changes in the Chinese Financial Sector (1996–2018): A Network and Input–Output Approach*.  
   *Structural Change and Economic Dynamics*.  
   *(Acknowledged contributor.)*
