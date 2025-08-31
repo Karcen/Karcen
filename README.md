@@ -86,8 +86,8 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ### ✅ Published
 
-- **Zheng, J., Khan, J., & Alam, Z.** (2025).  
-  *Agglomeration Economies and Regional Inequalities in China: Theory and Evidence*.  
+- **Khan, J., Zheng, J., Ahmad, M., & Khan, Z. A. (2025).** (2025).  
+  *Agglomeration Economies and Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
 - **Khan, J., & Li, Y.** (2024).  
