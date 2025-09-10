@@ -132,16 +132,16 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   Selected as one of only 40 participants nationwide; sole representative from Shandong University and the only known cross-disciplinary admit nationwide.  
 
 - **Renmin University of China, School of Applied Economics (PhD in Regional Economics)**  
-  Participated in pre-admission evaluation for doctoral program in Regional Economics.  
+  Give up.  
 
 - **Shanghai University of Finance and Economics, School of Economics (PhD in Population, Resources, and Environmental Economics)**  
-  Attended pre-admission summer camp and academic evaluation.  
+  Give up.  
 
 - **Xiamen University, Wang Yanan Institute for Studies in Economics (MPhil Program)**  
   Engaged in summer camp activities and preliminary admission assessment.  
 
 - **Tianjin University, Ma Yinchu School of Economics (PhD Program)**  
-  Participated in pre-admission evaluation for doctoral program.  
+  Accept the offer.  
 
 
 ## 📊 GitHub Stats
