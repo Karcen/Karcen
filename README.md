@@ -67,7 +67,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ### 📝 Under Review
 
-- **Chen, B., Hong, D., Ji, J., Zheng, J., et al.**  
+- **Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.**  
   *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
   Submitted to **NeurIPS 2025**. [Project Website](https://pku-intermt.github.io)
 
@@ -76,31 +76,31 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   Submitted to *One Earth*.  
   *(Contributed to data analysis, modeling, and visualization.)*
 
-- **Khan, J., Li, Y., & Zheng, J.**  
+- **Khan, J., Li, Y., & **Zheng, J.****  
   *Sectoral Growth Dynamics and GVC Movement in Pakistan: A Multi-Regional Input–Output Approach*.  
   Submitted to *Review of Development Economics*.
 
-- **Xiao, X., Khan, J., & Zheng, J.**  
+- **Xiao, X., Khan, J., & **Zheng, J.****  
   *Structural Shifts and ICT Sector Linkages in China and India*.  
   Submitted to *Telecommunication Policy*.
 
 ### ✅ Published
 
-- **Khan, J., Zheng, J., Ahmad, M., & Khan, Z. A. (2025).** (2025).  
+- **Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025).** (2025).  
   *Agglomeration Economies and Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
 - **Khan, J., & Li, Y.** (2024).  
   *Linkages and Structural Changes in the Chinese Financial Sector (1996–2018): A Network and Input–Output Approach*.  
   *Structural Change and Economic Dynamics*.  
-  *(Acknowledged contributor.)*
+  *(Acknowledged contributor. _Initially listed me as a co-author but later removed my name during the second review due to the journal’s undergraduate authorship policy_)*
 
 > This study highlights the financial sector's pivotal role in post-crisis transformation and downstream industrial linkages.
 
 ### 📚 Book Contributions
 
 - **Crespo, R., & Rodríguez-Pose, A.** (2024).  
-  *Innovation and Regional Growth in Europe* (Chapter 3 translated).  
+  *Innovation and Regional Growth in Europe* (**Chapter 3 translated**).  
   Beijing: Economic Management Press.  
   > This book examines social filter theory, cross-sector collaboration, and European-Chinese contrasts in innovation and regional policy.
 
@@ -114,15 +114,35 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ## 🏆 Awards & Honors
 
-- **IIOA Travel Grant** (USD 3000), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
-- **National Encouragement Scholarship** (Shandong University, RMB 5000), 2023  
-- **Tertiary Scholarship of Distinction** (Shandong University, RMB 1000), 2023  
-- **PwC Open Day Participant**, via Golden Education Elite Challenge (RMB 450), 2023  
-- **Secondary Scholarship** (Dalian University of Technology, RMB 500), 2020  
-- **Scholarship for Excellence in Character & Civic Spirit** (DUT, RMB 400), 2020  
-- **National Scholarship** (DUT, RMB 8000), 2020  
+**Exchange rate applied: 1 USD = 7.20 RMB**  
+
+- **IIOA Travel Grant** (RMB 21,600 ≈ USD 3,000.00), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
+- **National Encouragement Scholarship** (RMB 5,000 ≈ USD 694.44), 2023  
+- **Tertiary Scholarship of Distinction** (RMB 1,000 ≈ USD 138.89), 2023  
+- **PwC Open Day Participant**, via Golden Education Elite Challenge (RMB 450 ≈ USD 62.50), 2023  
+- **Secondary Scholarship** (RMB 500 ≈ USD 69.44), 2020  
+- **Scholarship for Excellence in Character & Civic Spirit** (RMB 400 ≈ USD 55.56), 2020  
+- **National Scholarship** (RMB 8,000 ≈ USD 1,111.11), 2020  
 
 ---
+
+## 🎓 Summer Camps & Pre-admission Experiences  
+
+- **Peking University, Institute of New Structural Economics (PhD Program)**  
+  Selected as one of only 40 participants nationwide; sole representative from Shandong University and the only known cross-disciplinary admit nationwide.  
+
+- **Renmin University of China, School of Applied Economics (PhD in Regional Economics)**  
+  Participated in pre-admission evaluation for doctoral program in Regional Economics.  
+
+- **Shanghai University of Finance and Economics, School of Economics (PhD in Population, Resources, and Environmental Economics)**  
+  Attended pre-admission summer camp and academic evaluation.  
+
+- **Xiamen University, Wang Yanan Institute for Studies in Economics (MPhil Program)**  
+  Engaged in summer camp activities and preliminary admission assessment.  
+
+- **Tianjin University, Ma Yinchu School of Economics (PhD Program)**  
+  Participated in pre-admission evaluation for doctoral program.  
+
 
 ## 📊 GitHub Stats
 
