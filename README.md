@@ -83,7 +83,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 ### ✅ Published
 - **Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.**  
   *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
-  Submitted to **NeurIPS 2025(Spotlight)**. [Project Website](https://pku-intermt.github.io)
+  **NeurIPS 2025(Spotlight)**. [Project Website](https://pku-intermt.github.io)
 
 
 - **Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025).** (2025).  
