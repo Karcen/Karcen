@@ -67,10 +67,6 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ### 📝 Under Review
 
-- **Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.**  
-  *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
-  Submitted to **NeurIPS 2025**. [Project Website](https://pku-intermt.github.io)
-
 - **Khan, J., Li, Y., & Girardin, E.**  
   *The Effectiveness of Unilateral vs. Multilateral Carbon Adjustment Mechanisms under WTO and Climate Rules*.  
   Submitted to *One Earth*.  
@@ -85,6 +81,10 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   Submitted to *Telecommunication Policy*.
 
 ### ✅ Published
+- **Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.**  
+  *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
+  Submitted to **NeurIPS 2025(Spotlight)**. [Project Website](https://pku-intermt.github.io)
+
 
 - **Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025).** (2025).  
   *Agglomeration Economies and Inequalities in China: Theory and Evidence*.  
