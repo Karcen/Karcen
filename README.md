@@ -67,46 +67,46 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ### 📝 Under Review
 
-- **Khan, J., Li, Y., & Girardin, E.**  
+- Khan, J., Li, Y., & Girardin, E.
   *The Effectiveness of Unilateral vs. Multilateral Carbon Adjustment Mechanisms under WTO and Climate Rules*.  
   Submitted to *One Earth*.  
   *(Contributed to data analysis, modeling, and visualization.)*
 
-- **Khan, J., Li, Y., & **Zheng, J.****  
+- Khan, J., Li, Y., & **Zheng, J. ** 
   *Sectoral Growth Dynamics and GVC Movement in Pakistan: A Multi-Regional Input–Output Approach*.  
   Submitted to *Review of Development Economics*.
 
-- **Xiao, X., Khan, J., & **Zheng, J.****  
+- Xiao, X., Khan, J., & **Zheng, J.**
   *Structural Shifts and ICT Sector Linkages in China and India*.  
   Submitted to *Telecommunication Policy*.
 
 ### ✅ Published
-- **Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.**  
+- Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.
   *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
   **NeurIPS 2025(Spotlight)**. [Project Website](https://pku-intermt.github.io)
 
 
-- **Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025).** (2025).  
+- Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025). (2025).  
   *Agglomeration Economies and Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
-- **Khan, J., & Li, Y.** (2024).  
+- Khan, J., & Li, Y. (2024).  
   *Linkages and Structural Changes in the Chinese Financial Sector (1996–2018): A Network and Input–Output Approach*.  
   *Structural Change and Economic Dynamics*.  
-  *(Acknowledged contributor. _Initially listed me as a co-author but later removed my name during the second review due to the journal’s undergraduate authorship policy_)*
+  *(**Acknowledged contributor.** _Initially listed me as a co-author but later removed my name during the second review due to the journal’s undergraduate authorship policy_)*
 
 > This study highlights the financial sector's pivotal role in post-crisis transformation and downstream industrial linkages.
 
 ### 📚 Book Contributions
 
 - **Crespo, R., & Rodríguez-Pose, A.** (2024).  
-  *Innovation and Regional Growth in Europe* (**Chapter 3 translated**).  
+  *Innovation and Regional Growth in Europe(Chinese Edition)* (**Chapter 3 translated**).  
   Beijing: Economic Management Press.  
   > This book examines social filter theory, cross-sector collaboration, and European-Chinese contrasts in innovation and regional policy.
 
 ### 🏗️ In Progress
 
-- **Li, Y., & Khan, J.**  
+- Li, Y., & Khan, J. 
   *Wind from the East: How the Belt and Road Initiative Connects Continents*.  
   Peter Lang. *(Acknowledged contributor)*
 
