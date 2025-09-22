@@ -72,7 +72,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   Submitted to *One Earth*.  
   *(Contributed to data analysis, modeling, and visualization.)*
 
-- Khan, J., Li, Y., & **Zheng, J. ** 
+- Khan, J., Li, Y., & **Zheng, J.** 
   *Sectoral Growth Dynamics and GVC Movement in Pakistan: A Multi-Regional Input–Output Approach*.  
   Submitted to *Review of Development Economics*.
 
