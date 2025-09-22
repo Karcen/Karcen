@@ -114,15 +114,15 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 ## 🏆 Awards & Honors
 
-**Exchange rate applied: 1 USD = 7.20 RMB**  
+**Exchange rate applied: 1 USD = 7.20 CNY**  
 
-- **IIOA Travel Grant** (RMB 21,600 ≈ USD 3,000.00), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
-- **National Encouragement Scholarship** (RMB 5,000 ≈ USD 694.44), 2023  
-- **Tertiary Scholarship of Distinction** (RMB 1,000 ≈ USD 138.89), 2023  
-- **PwC Open Day Participant**, via Golden Education Elite Challenge (RMB 450 ≈ USD 62.50), 2023  
-- **Secondary Scholarship** (RMB 500 ≈ USD 69.44), 2020  
-- **Scholarship for Excellence in Character & Civic Spirit** (RMB 400 ≈ USD 55.56), 2020  
-- **National Scholarship** (RMB 8,000 ≈ USD 1,111.11), 2020  
+- **IIOA Travel Grant** (CNY 21,600 ≈ USD 3,000.00), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
+- **National Encouragement Scholarship** (CNY 5,000 ≈ USD 694.44), 2023  
+- **Tertiary Scholarship of Distinction** (CNY 1,000 ≈ USD 138.89), 2023  
+- **PwC Open Day Participant**, via Golden Education Elite Challenge (CNY 450 ≈ USD 62.50), 2023  
+- **Secondary Scholarship** (CNY 500 ≈ USD 69.44), 2020  
+- **Scholarship for Excellence in Character & Civic Spirit** (CNY 400 ≈ USD 55.56), 2020  
+- **National Scholarship** (CNY 8,000 ≈ USD 1,111.11), 2020  
 
 ---
 
