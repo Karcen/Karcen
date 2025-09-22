@@ -86,7 +86,7 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
   **NeurIPS 2025(Spotlight)**. [Project Website](https://pku-intermt.github.io)
 
 
-- Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025). (2025).  
+- Khan, J., **Zheng, J.**, Ahmad, M., & Khan, Z. A. (2025).
   *Agglomeration Economies and Inequalities in China: Theory and Evidence*.  
   *Journal of Chinese Economic and Business Studies*.
 
