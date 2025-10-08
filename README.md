@@ -117,7 +117,7 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
 ## 🏆 Awards & Honors
 
 **Exchange rate applied: 1 USD = 7.20 CNY**  
-
+- **Shandong Provincial Inspirational Scholarship**, (CNY 5000 ≈ USD 702),2025
 - **IIOA Travel Grant** (CNY 21,600 ≈ USD 3,000.00), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
 - **National Encouragement Scholarship** (CNY 5,000 ≈ USD 694.44), 2023  
 - **Tertiary Scholarship of Distinction** (CNY 1,000 ≈ USD 138.89), 2023  
