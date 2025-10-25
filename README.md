@@ -105,6 +105,7 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
   *Innovation and Regional Growth in Europe(Chinese Edition)* (**Chapter 3 translated**).  
   Beijing: Economic Management Press.  
   > This book examines social filter theory, cross-sector collaboration, and European-Chinese contrasts in innovation and regional policy.
+  > This book was awarded the Third Prize in the “Top 100 Outstanding Achievements in Social Science Research” Project of Shanxi Province.
 
 ### 🏗️ In Progress
 
