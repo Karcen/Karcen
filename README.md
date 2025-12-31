@@ -19,7 +19,7 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
 
 - **Research Intern**, *Climate Change Economics and Low Carbon Transition Team* ([UCL](https://www.ucl.ac.uk/bartlett/construction/)) (May–Aug 2024)  
   Supervised by [Prof. Zhifu Mi](https://www.ucl.ac.uk/bartlett/construction/people/dr-zhifu-mi) & [Dr. Haoran Zhang](https://orcid.org/0000-0002-8751-5407)  
-  Contribution: **Analyzing citation patterns of the Intergovernmental Panel on Climate Change Assessment Reports**.
+  Contribution: **Participated in the project “The analysis of the references of the Intergovernmental Panel on Climate Change Assessment Reports.”**.
 
 - **Research Intern**, *HKGAI*, [The Hong Kong University of Science and Technology](https://hkust.edu.hk) (2025)  
   Role: Contributed to deploying the HKGAI large model for the Hong Kong government. Collaborated with [Jiaming Ji](https://jijiaming.com/) and [Boyuan Chen](https://cby-pku.github.io/) on data alignment for multi-modal LLM systems, submitted one paper to NeurIPS 2025.
@@ -117,7 +117,8 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
 
 ## 🏆 Awards & Honors
 
-**Exchange rate applied: 1 USD = 7.20 CNY**  
+**Exchange rate applied: 1 USD = 7.20 CNY** 
+- **Merit Scholarship** (Third-class, SDU; CNY 1,000 ≈ USD 140), 2025
 - **National Encouragement Scholarship** (CNY 6,000 ≈ USD 841.80), 2025  
 - **Shandong Provincial Inspirational Scholarship**, (CNY 5000 ≈ USD 702), 2025
 - **IIOA Travel Grant** (CNY 21,600 ≈ USD 3,000.00), 2025 *(Award initially confirmed via COMPASS, later withdrawn due to budget limits)*  
