@@ -62,8 +62,44 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
 
 2. **Evaluation Index System for Rule-Based Soft Connectivity under the Belt and Road Initiative**  
    Supported by the National Social Science Fund (2021) — *Completed*
-
 ---
+
+## 🚀 My Projects
+💡 Collection of tools and resources I've built for learning and sharing.  
+*Note: Most projects are developed with AI-assisted coding for educational and practical purposes. Feel free to explore! 🌟*
+
+### 📊 Data Science & Machine Learning
+- 🍳 [Machine Learning Environment Guide with Tutorials](https://github.com/Karcen/ML-Env-Guide-with-Tutorials/)
+- 💡 [Bayesian Admission Model](https://karcen.github.io/bayesian-admission-model.github.io/)
+- 🍳 [Machine Learning Cookbook (V2)](https://karcen.github.io/machine_learning_cookbook_v2.github.io/)
+- 🍳 [Machine Learning Cookbook (V1)](https://karcen.github.io/machine_learing_cookbook_v1.github.io/)
+- 🎭 [The Ultimate Comedy Guide to Transformers](https://karcen.github.io/The-Ultimate-Comedy-Guide-to-Transformers.github.io/)
+- 🤖 [Transformer & GPT Explained: Interactive Learning Tool based on "Attention is All You Need"](https://karcen.github.io/transformer-visual-tutorial.github.io/)
+- 🧮 [Newton Iteration Visualization](https://karcen.github.io/Newton-Iteration-Visualization.github.io/)
+- 📊 [SDU GPA Visualizer](https://karcen.github.io/SDU-GPA-Visualizer.github.io/)
+- 🔧 [NBS Data Preprocessing Tool](https://github.com/Karcen/Python-code-for-preprocessing-data-from-the-National-Bureau-of-Statistics-NBS)
+
+### 📚 Professional Courses
+- ⭐ [Food Processing Equipment — Review Notes for the Final Lesson](https://karcen.github.io/FoodProcessingEquipment-Notes-Final-Class.github.io/)
+- 🐟 [Ichthyopathology Quiz System](https://karcen.github.io/ICHTHYOPATHOLOGY-EXERCISES.github.io/)
+- 🏭️ [Bidirectional Material Balance System](https://karcen.github.io/Bidirectional_Material_Balance_System.github.io/)
+- 🦪 [Oyster Processing Production Line Chemical Calculation System](https://karcen.github.io/Oyster-Processing-Production-Line-Chemical-Calculation-System.github.io/)
+- 🍣 [Salmon Factory Design - Interactive Web Application](https://karcen.github.io/Salmon-Factory-Design-Interactive-Web-Application.github.io/)
+- 🎓 [Graduate School Recommendation Experience](https://karcen.github.io/I_am_Small_Town_Swot.github.io/)
+- ⚙️ [LaTeX Not Complete Tutorial](https://karcen.github.io/learn-latex-from-scratch.github.io/)
+
+### 🎉 Fun Projects
+- 🐠 [Fish Head Auto-Orientation System](https://karcen.github.io/Fish_Head_Orientation.github.io/)
+- 📊 [UIBE Finance Postgraduate Application Guide 2028](https://karcen.github.io/kaoyan-finance-dashboard-UIBE.github.io/)
+- 📸 [Offer Dao! AI Passport Photo Background Changer](https://karcen.github.io/offerdao.github.io/)
+- 🗺️ [West China Travel Guide](https://karcen.github.io/West-China-Travel-Guide.github.io/)
+- 🎭 [Facing Affairs](https://karcen.github.io/Facing-Affairs.github.io/)
+- 📄 [Wedding Journal LaTeX Template](https://github.com/Karcen/Journal-of-Wedding-Latex-Template)
+- 🤖 [SDUTeachEvalBot](https://github.com/Karcen/SDUTeachEvalBot/tree/main)
+- ✅ [Dormitory Safety and Fire Confirmation Form Generator](https://github.com/Karcen/SDUWH-Dormitory-Safety-and-Fire-Confirmation-Form-Generator)
+- 📥 [VS Code Extension Automatic Bulk Download](https://github.com/Karcen/VS-Code-Extension-Automatic-Bulk-Download)
+- ⭐ [RLHF Scoring-Web: Rating Tool](https://karcen.github.io/RLHF-scoring-web/)
+
 
 ## 📄 Publications & Works
 
