@@ -103,21 +103,6 @@ I will pursue my master degree through postgraduate recommendation in Ma Yinchu 
 
 ## 📄 Publications & Works
 
-### 📝 Under Review
-
-- Khan, J., Li, Y., & Girardin, E.
-  *The Effectiveness of Unilateral vs. Multilateral Carbon Adjustment Mechanisms under WTO and Climate Rules*.  
-  Submitted to *One Earth*.  
-  *(Contributed to data analysis, modeling, and visualization.)*
-
-- Khan, J., Li, Y., & **Zheng, J.** 
-  *Sectoral Growth Dynamics and GVC Movement in Pakistan: A Multi-Regional Input–Output Approach*.  
-  Submitted to *Review of Development Economics*.
-
-- Xiao, X., Khan, J., & **Zheng, J.**
-  *Structural Shifts and ICT Sector Linkages in China and India*.  
-  Submitted to *Telecommunication Policy*.
-
 ### ✅ Published
 - Chen, B., Hong, D., Ji, J., **Zheng, J.**, et al.
   *InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback*.  
