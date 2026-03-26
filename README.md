@@ -82,46 +82,7 @@ I will pursue my master degree through postgraduate recommendation in [Ma Yinchu
 # 🚀 My Projects
 💡 Collection of tools and resources I've built for learning and sharing.
 
-## 📊 Data Science & Machine Learning（数据科学与机器学习）
-- 🧮 [UCL MATH7601 Exam Solutions (No Code)（无代码考试解答）](https://github.com/Karcen/UCL-math7601-exam-solutions-no-code.github.io)
-- 💻 [UCL MATH7601 Exam Solutions (With Code)（含代码考试解答）](https://karcen.github.io/UCL-math7601-exam-solutions-code.github.io/)
-- 🧮 [LU Decomposition Visualization（LU分解可视化工具）](https://karcen.github.io/LU_Decomposition.github.io/)
-- 📐 [UCL MATH0058 Assessment 2（UCL 数学课程项目）](https://karcen.github.io/UCL_MATH0058_Assessment_2.github.io/)
-- 🧠 [FreeSurfer Complete Workflow Guide（FreeSurfer完整流程手册：重建 + 3D模型 + 核团统计）](https://github.com/Karcen/freesurfer-recon-freeview-3dstats)
-- 🍳 [Machine Learning Environment Guide with Tutorials（机器学习研究环境搭建指南）](https://github.com/Karcen/ML-Env-Guide-with-Tutorials/)
-- 💡 [Bayesian Admission Model（申请季贝叶斯推断模型）](https://karcen.github.io/bayesian-admission-model.github.io/)
-- 🍳 [Machine Learning Cookbook(V2)（机器学习实用手册V2）](https://karcen.github.io/machine_learning_cookbook_v2.github.io/)
-- 🍳 [Machine Learning Cookbook(V1)（机器学习实用手册V1）](https://karcen.github.io/machine_learing_cookbook_v1.github.io/)
-- 🎭 [The Ultimate Comedy Guide to Transformers（Transformer终极搞笑指南）](https://karcen.github.io/The-Ultimate-Comedy-Guide-to-Transformers.github.io/)
-- 🤖 [Transformer & GPT Explained: Interactive Learning Tool based on "Attention is All You Need"（Transformer和GPT原理详解——交互式学习工具）](https://karcen.github.io/transformer-visual-tutorial.github.io/)
-- 🧮 [Newton Iteration Visualization（牛顿迭代法数列收敛可视化工具）](https://karcen.github.io/Newton-Iteration-Visualization.github.io/)
-- 📊 [SDU GPA Visualizer（SDU 自动绩点可视化工具）](https://karcen.github.io/SDU-GPA-Visualizer.github.io/)
-- 🔧 [NBS Data Preprocessing Tool（国家统计局数据格式转换与预处理工具）](https://github.com/Karcen/Python-code-for-preprocessing-data-from-the-National-Bureau-of-Statistics-NBS)
-
-## 📚 Professional Courses（专业课）
-- ⭐ [Food Processing Equipment — Review Notes for the Final Lesson（食品加工设备——最后一节课复习笔记）](https://karcen.github.io/FoodProcessingEquipment-Notes-Final-Class.github.io/)
-- 🐟 [Ichthyopathology Quiz System（鱼病学刷题系统）](https://karcen.github.io/ICHTHYOPATHOLOGY-EXERCISES.github.io/)
-- 🏭️ [Bidirectional Material Balance System（双向物料衡算系统）](https://karcen.github.io/Bidirectional_Material_Balance_System.github.io/)
-- 🦪 [Oyster Processing Production Line Chemical Calculation System（牡蛎加工生产线化工计算系统）](https://karcen.github.io/Oyster-Processing-Production-Line-Chemical-Calculation-System.github.io/)
-- 🍣 [Salmon Factory Design - Interactive Web Application（年产20000吨三文鱼工厂设计——交互式网页应用）](https://karcen.github.io/Salmon-Factory-Design-Interactive-Web-Application.github.io/)
-- 🎓 [Graduate School Recommendation Experience（预推免经验分享）](https://karcen.github.io/I_am_Small_Town_Swot.github.io/)
-- ⚙️ [LaTeX Not Complete Tutorial（LaTeX 不太完全教程）](https://karcen.github.io/learn-latex-from-scratch.github.io/)
-
-## 🎉 Fun Projects（整活）
-- 🌌 [Gemini Gesture Verse（Gemini 手势粒子宇宙）](https://karcen.github.io/GestureNebula.github.io/)
-- 📑 [BibTeX Reference Validator(文献引用查重验证器)](https://karcen.github.io/bibtex-crossref-validator-online.github.io/)
-- 🐠 [Fish Head Auto-Orientation System（鱼头自动朝向机）](https://karcen.github.io/Fish_Head_Orientation.github.io/)
-- 📊 [UIBE Finance Postgraduate Application Guide 2028（对外经贸大学本科生专属报告 · 2028年秋季入学 金融硕士报考指南）](https://karcen.github.io/kaoyan-finance-dashboard-UIBE.github.io/)
-- 📸 [Offer Dao! AI Passport Photo Background Changer（offer到！AI 证件照换底色工具）](https://karcen.github.io/offerdao.github.io/)
-- 🗺️ [West China Travel Guide（西部旅行攻略）](https://karcen.github.io/West-China-Travel-Guide.github.io/)
-- 🎭 [Facing Affairs（政面危机——社团活动比赛项目）](https://karcen.github.io/Facing-Affairs.github.io/)
-- 📄 [Wedding Journal LaTeX Template（婚礼学报Tex模板）](https://github.com/Karcen/Journal-of-Wedding-Latex-Template)
-- 🤖 [SDUTeachEvalBot（山东大学自动评教工具）](https://github.com/Karcen/SDUTeachEvalBot/tree/main)
-- ✅ [Dormitory Safety and Fire Confirmation Form Generator（宿舍安全与消防确认表生成工具）](https://github.com/Karcen/SDUWH-Dormitory-Safety-and-Fire-Confirmation-Form-Generator)
-- 📥 [VS Code Extension Automatic Bulk Download（VS Code 插件批量自动下载工具）](https://github.com/Karcen/VS-Code-Extension-Automatic-Bulk-Download)
-- ⭐ [RLHF Scoring-Web: Rating Tool（RLHF评分网页工具）](https://karcen.github.io/RLHF-scoring-web/)
-
-*Note: Most projects are developed with AI-assisted coding for educational and practical purposes. Feel free to explore! 🌟*
+Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
 
 
 ## 📄 Publications & Works
