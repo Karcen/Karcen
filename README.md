@@ -9,6 +9,8 @@ Previously, I studied **Chemical Engineering** at [Dalian University of Technolo
 
 I will pursue my master degree through postgraduate recommendation in [Ma Yinchu School of Economics, Tianjin University](https://mysoe.tju.edu.cn/en/home.htm).
 
+I serve as a referee for the _Journal of Chinese Economic and Business Studies_.
+
 ---
 
 ## 🧪 Research Experience
