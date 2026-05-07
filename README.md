@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Karcen Zheng](https://karcen.github.io/zhengjiacheng.github.io/)
+### 👋 Hi, I'm [Jiacheng(Karcen) Zheng](https://karcen.github.io/zhengjiacheng.github.io/)
 
 ---
 
@@ -117,7 +117,7 @@ Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
 ### 🏗️ In Progress
 
 - Li, Y., & Khan, J. 
-  *Wind from the East: How the Belt and Road Initiative Connects Continents*.  
+  *Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?*  
   Peter Lang. *(Acknowledged contributor)*
 
 ---
