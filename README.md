@@ -117,7 +117,7 @@ Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
 
 ### 🏗️ In Progress
 
-- Li, Y., & Khan, J. 
+- Li, Y.
   *Wind from the East: How does the Belt and Road Initiative connect continents to unleash economic potential?*  
   Peter Lang. *(Acknowledged contributor)*
 
