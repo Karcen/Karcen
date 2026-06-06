@@ -1,8 +1,7 @@
-name: Metrics
+name: Generate Metrics
 
 on:
   schedule:
-    # 每天 00:00 运行
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -10,12 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Metrics
-        uses: lowlighter/metrics-action@v1
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          metrics_config_path: './metrics-config.yml'
-          output_path: './README.md'
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyyaml
+
+      - name: Run metrics generator
+        run: |
+          python generate_metrics.py
