@@ -159,8 +159,8 @@ Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karcen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karcen&layout=compact&theme=radical)
+<!-- metrics-start -->
+<!-- metrics-end -->
 
 ---
 
