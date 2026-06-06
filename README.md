@@ -157,10 +157,9 @@ Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
   Accept the offer.  
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-<!-- metrics-start -->
-<!-- metrics-end -->
+![Metrics](./github-metrics.svg)
 
 ---
 
