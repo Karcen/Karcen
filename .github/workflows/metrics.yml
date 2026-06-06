@@ -1,0 +1,21 @@
+name: Metrics
+
+on:
+  schedule:
+    # 每天 00:00 运行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          metrics_config_path: './metrics-config.yml'
+          output_path: './README.md'
