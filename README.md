@@ -159,7 +159,7 @@ Please visit: [My Website](https://karcen.github.io/zhengjiacheng.github.io/)
 
 ## 📊 GitHub Metrics
 
-![Metrics](./github-metrics.svg)
+[![Metrics](./github-metrics.svg)](https://raw.githubusercontent.com/Karcen/Karcen/main/github-metrics.svg)
 
 ---
 
