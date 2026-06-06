@@ -24,3 +24,10 @@ jobs:
       - name: Run metrics generator
         run: |
           python generate_metrics.py
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-metrics.svg
+          git commit -m "Update metrics" || echo "No changes to commit"
+          git push
